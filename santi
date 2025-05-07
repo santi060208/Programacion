@@ -1,0 +1,8 @@
+import tkinter as tk
+def main():
+    ventana=tk.TK()
+    ventana.title("ejercico 3")
+    ventana.geometry("700")
+
+    def accionSaludar():
+        titulo=tk.label(ventana.text="saludar"
